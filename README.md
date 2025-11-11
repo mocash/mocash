@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Siraji (mocash)
+# 👋 Hi, I'm Mo (mocash)
     
     I'm the Founder of Sirtechweb a Cloud Security company - currently still in early stage
       
