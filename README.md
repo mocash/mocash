@@ -34,7 +34,7 @@ Welcome to my GitHub profile! With 10+ years of hands-on experience in cybersecu
 ### 📚 Education
 
 **BS in Cybersecurity**  
-Cambridge College (June 2025)
+
 
 ---
 
@@ -51,7 +51,6 @@ Cambridge College (June 2025)
 ### 📫 Get in Touch
 
 - **LinkedIn:** [msiraji](https://www.linkedin.com/in/msiraji/)
-- **Email:** m.siraji1@gmail.com
 - *(Phone available upon request)*
 
 ---
